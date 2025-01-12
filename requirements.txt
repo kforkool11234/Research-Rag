@@ -1,0 +1,8 @@
+snowflake-connector-python
+mistralai
+python-dotenv
+sentence-transformers
+transformers
+pdfminer.six
+requests
+streamlit
