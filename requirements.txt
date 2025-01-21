@@ -1,4 +1,4 @@
-snowflake.snowpark
+snowflake-snowpark-python
 snowflake-connector-python
 mistralai
 python-dotenv
